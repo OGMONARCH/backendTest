@@ -137,7 +137,7 @@ node client.js
 
 
 
-OAUTH FLOW SEQUENCE DIAGRAM
+# OAUTH FLOW SEQUENCE DIAGRAM
 ```mermaid 
 sequenceDiagram
   participant User
@@ -160,7 +160,7 @@ sequenceDiagram
 
 
 
-WEBSOCKET AUTH DIAGRAM
+# WEBSOCKET AUTH DIAGRAM
 ```mermaid
 sequenceDiagram
   participant Client
